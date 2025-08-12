@@ -1,0 +1,22 @@
+# real configs & secrets
+.env
+config/config.yaml
+
+# private core
+risk/bhls_manager.go
+private/
+
+# logs
+logs/*.log
+
+# tests
+tests/
+
+# cmd
+cmd/
+
+# exchange
+exchange/client.go,exchange
+
+# .vscode
+.vscode
