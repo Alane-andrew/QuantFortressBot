@@ -94,7 +94,7 @@ strategies:
       hedge_start_pct: <value>
       hedge_step_pct: <value>
       max_hedge_levels: <value>
-      hedge_level_percentages: "<csv>"   # e.g. "0.3,0.3,0.4"
+      hedge_level_percentages: "<csv>"  
       hedge_stop_loss_pct: <value>
 ```
 
