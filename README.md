@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/logoA_shield_grid_light_small.svg" width="220" alt="QuantFortressBot logo" />
 </p>
+
 # QuantFortressBot
 
 A risk-focused **trading bot** for crypto perpetual futures featuring **layered hedging** and **progressive stop-loss** with black-swan protection.  
