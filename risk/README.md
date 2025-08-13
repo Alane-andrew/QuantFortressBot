@@ -55,4 +55,4 @@ This allows experimenting with alternative policies while keeping the trading co
 
 ## 📩 Contact
 For BHLS source evaluation or collaboration, please reach out for an **NDA**.  
-Contact: <your email / Telegram / LinkedIn>
+
