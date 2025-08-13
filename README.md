@@ -109,7 +109,7 @@ go run main.go
 
 ## 🤝 NDA & Collaboration
 - Full BHLS source and the full-key placeholder config are available **under NDA** for technical due diligence or partnership.
-- Contact: <your email / Telegram / LinkedIn>
+
 
 ## 📄 License
 Open-source files are under MIT (or your choice).  
