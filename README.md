@@ -18,15 +18,10 @@ The BHLS core is delivered as **interface + black-box** (proprietary implementat
 
 <p align="center">
   <picture>
-    <source srcset="assets/architecture_dark.svg" type="image/svg+xml">
-    <img src="assets/architecture.png" width="1000" alt="QuantFortressBot Architecture">
-  </picture>
-  <picture>
     <source srcset="assets/architecture_light.svg" type="image/svg+xml">
     <img src="assets/architecture.png" width="1000" alt="QuantFortressBot Architecture">
   </picture>
 </p>
-
 
 ## 🧭 Project Structure
 ```
