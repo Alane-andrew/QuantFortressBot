@@ -22,6 +22,7 @@ The BHLS core is delivered as **interface + black-box** (proprietary implementat
     <img src="assets/architecture.png" width="1000" alt="QuantFortressBot Architecture">
   </picture>
 </p>
+
 ## 🧭 Project Structure
 ```
 config/        # YAML configs (public example uses placeholders; real config is not committed)
