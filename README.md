@@ -23,6 +23,7 @@ The BHLS core is delivered as **interface + black-box** (proprietary implementat
   </picture>
 </p>
 
+
 ## 🧭 Project Structure
 ```
 config/        # YAML configs (public example uses placeholders; real config is not committed)
