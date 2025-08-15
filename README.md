@@ -14,6 +14,17 @@ The BHLS core is delivered as **interface + black-box** (proprietary implementat
 - **Interface + Black-Box** — Public repo exposes the risk engine **interfaces & actions**; the BHLS implementation file stays private.
 - **Production-Oriented** — Exchange adapters (Binance), precision handling, structured logs, monitoring loops, and state snapshots.
 
+## 🧩 Architecture
+
+<p align="center">
+  <picture>
+    <source srcset="assets/architecture_dark.svg" type="image/svg+xml">
+    <source srcset="assets/architecture_light.svg" type="image/svg+xml">
+    <img src="assets/architecture.png" width="900" alt="QuantFortressBot Architecture">
+  </picture>
+</p>
+
+
 ## 🧭 Project Structure
 ```
 config/        # YAML configs (public example uses placeholders; real config is not committed)
