@@ -31,7 +31,7 @@ type RiskManager interface {
 These actions are orchestrated to pause/resume grid, open/close hedges, or trigger circuit breaker.
 
 ## 🔒 Private (not in this repo)
-- `bhls_manager.go` — BHLS = layered **B**atched **H**edging + **L**ayered **S**top-loss:
+- `bhls_manager.go` — **BHLS** = **Batch Hedging** + **Layered Stop-loss**:
   - Layer scheduling (start/step %) from grid bounds
   - Per-level sizing from base exposure
   - Progressive stop-loss placement/updates
