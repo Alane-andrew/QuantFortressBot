@@ -4,11 +4,11 @@
 
 # QuantFortressBot
 
-A risk-focused **trading bot** for crypto perpetual futures featuring **layered hedging** and **progressive stop-loss** with black-swan protection.  
+A Risk-Focused **Trading Bot** for Crypto futures featuring **Batch Hedging** and **Layered Stop-loss** with black-swan protection.  
 The BHLS core is delivered as **interface + black-box** (proprietary implementation is not published).
 
 ## ✨ Key Features
-- **Layered Hedging (BHLS)** — Open hedges in levels once price breaches grid bounds; unwind via **progressive stop-loss**.
+- **Layered Hedging (BHLS)** — Open hedges in levels once price exceeds grid bounds; unwind via **Layered Stop-loss**.
 - **Black-Swan Protection** — Circuit breaker by cumulative PnL, with emergency liquidation & trading halt.
 - **Closed-Loop Architecture** — Clear separation of concerns: strategy → orchestrator → execution → risk engine → state/monitor/profit.
 - **Interface + Black-Box** — Public repo exposes the risk engine **interfaces & actions**; the BHLS implementation file stays private.
