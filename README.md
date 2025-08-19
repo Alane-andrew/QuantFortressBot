@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/linkedin_cover_light.svg" width="220" alt="QuantFortressBot logo" />
+  <img src="assets/linkedin_cover_light.svg" alt="QuantFortressBot logo" />
 </p>
 
 # QuantFortressBot
